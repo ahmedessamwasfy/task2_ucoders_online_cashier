@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563335209 source:c:\users\hp\desktop\new folder\task2_ucoders_online_cashier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
